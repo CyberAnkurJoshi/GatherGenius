@@ -9,7 +9,7 @@ NC='\033[0m' # No Color
 
 # Tool information
 TOOL_NAME="Gather Genius"
-LINKEDIN_URL="https://www.linkedin.com/in/your-profile"  # Replace with your LinkedIn URL
+LINKEDIN_URL="https://www.linkedin.com/in/theankurjoshi"  # Replace with your LinkedIn URL
 
 # Print tool information in large text
 echo -e "${GREEN}=== $(figlet -f slant "$TOOL_NAME") ===${NC}"
